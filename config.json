@@ -1,0 +1,11 @@
+{
+  "start_year": 2025,
+  "skip_keywords": ["letter", "correction", "erratum", "expression of concern", "editorial"],
+  "journals": [
+    {
+      "name": "Briefings in Bioinformatics",
+      "slug": "briefings-in-bioinformatics",
+      "url_pattern": "https://academic.oup.com/bib/issue/{volume}/{issue}"
+    }
+  ]
+}
